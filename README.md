@@ -69,4 +69,6 @@ System is in a safe state.
 
 Safe sequence: P3 -> P4 -> P1 -> P2 -> P0
 
-This output means the system is safe, and that is one valid sequence that allows all processes to complete without causing deadlock.
+This output means the system is safe, and that is one valid sequence that allows all processes to complete without causing deadlock.<br><br>
+
+<img width="581" height="55" alt="Screenshot 2025-11-22 at 6 34 57 PM" src="https://github.com/user-attachments/assets/25152fc3-d1bf-4b02-b13a-0aad783eb8cf" />
